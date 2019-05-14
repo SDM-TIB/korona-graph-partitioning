@@ -1,4 +1,4 @@
-gCMA
+CMA
 ====
 
 About
