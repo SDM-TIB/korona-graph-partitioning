@@ -74,6 +74,6 @@ The instructions for the installation of the tools in the folder
 
 Please, let me know any comment, problem, bug, or suggestion.
 
-Guillermo Palma
-[palma at l3s dot de](mailto:palma@l3s.de)
+Maria-Esther Vidal
+[maria dot vidal at tib dot eu](mailto:maria.vidal@tib.eu)
 
