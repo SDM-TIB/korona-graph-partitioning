@@ -76,7 +76,7 @@ Example 2:
 Contact
 ========
 
-Guillermo Palma (palma@l3s.de)
+Maria-Esther Vidal (maria.vidal@tib.eu)
 
 References
 ============
